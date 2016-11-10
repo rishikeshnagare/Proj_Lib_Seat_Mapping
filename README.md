@@ -1,11 +1,7 @@
 # Proj_Lib_Seat_Mapping
-####****************************************************************************
-## Author: Rishikesh Nagare
-##Project: Seat mapping application 
-##Course: Network Applications
-##Email: rishikeshnagare@gmail.com 
-##****************************************************************************
-***************************************************************************
+
+This project is a command line based reservation / mapping system. Please follow the instructions to compile and run the project.
+The whole process afterwards is self explainatory.
 
 == Compile ==
 
